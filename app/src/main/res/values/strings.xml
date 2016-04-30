@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Study Jam Project </string>
+  <string name="label_unit_price">Unit Price</string>
+  <string name="_10_tl">10 TL</string>
+  <string name="sipari_i_ver">Siparişi Ver</string>
+
+  <string name="full_name">Mr %2$s %1$s</string>
+</resources>
